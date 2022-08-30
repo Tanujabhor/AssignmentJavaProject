@@ -16,6 +16,8 @@ public class Practice {
 		m1();
 		Practice obj = new Practice();
 		obj.m2();
+		
+	System.out.println("abcdefghi");
 		}
 }
 
